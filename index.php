@@ -114,7 +114,7 @@ function imageZoom(imgID, resultID) {
 	<ul class="x-navigation x-navigation-horizontal x-navigation-panel">
 		<div class="col-xs-6 col-xs-offset-0 form-box">
 			<br>
-			<span class="pull-left" style="color:#fff;font-size:24px">EPH ZIGHOUD YOUCEF TENES:   UMC</span>	
+			<span class="pull-left" style="color:#fff;font-size:24px">EPH .................:  SERVICE .....</span>	
 		</div>		 
 		<!-- TOGGLE NAVIGATION -->
 		<div class="col-xs-6 col-xs-offset-0 form-box"  >
