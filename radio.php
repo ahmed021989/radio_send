@@ -58,7 +58,7 @@ echo $e;
  <ul class="x-navigation x-navigation-horizontal x-navigation-panel">
    <div class="col-sm-6 col-sm-offset-0 form-box">
    <br>
-		 <span class="pull-left" style="color:#fff;font-size:24px">EPH ZIGHOUD YOUCEF TENES</span>	
+		 <span class="pull-left" style="color:#fff;font-size:24px">EPH .............. SERVICE RADIOLOGIE</span>	
 </div>		 
                     <!-- TOGGLE NAVIGATION -->
       
